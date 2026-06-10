@@ -1,0 +1,272 @@
+[
+  {
+    "code": "002655",
+    "name": "Jiangsu Huaneng",
+    "gain": 178.09597523219813,
+    "start_price": 12.92,
+    "end_price": 35.93,
+    "price": 35.93,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002636",
+    "name": "Anjie Tech",
+    "gain": 170.37037037037035,
+    "start_price": 17.01,
+    "end_price": 45.99,
+    "price": 45.99,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002384",
+    "name": "Dongshan Precision",
+    "gain": 168.2022206472951,
+    "start_price": 84.66,
+    "end_price": 227.06,
+    "price": 227.06,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300408",
+    "name": "Sunnyside Tech",
+    "gain": 150.43308791684711,
+    "start_price": 46.18,
+    "end_price": 115.65,
+    "price": 115.65,
+    "mkt_cap": 0
+  },
+  {
+    "code": "603186",
+    "name": "Huazheng New Material",
+    "gain": 139.69345647474947,
+    "start_price": 50.89,
+    "end_price": 121.98,
+    "price": 121.98,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300604",
+    "name": "Changdian Tech",
+    "gain": 122.12264150943395,
+    "start_price": 106.0,
+    "end_price": 235.45,
+    "price": 235.45,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002938",
+    "name": "Pengding Holding",
+    "gain": 120.48216007714558,
+    "start_price": 51.85,
+    "end_price": 114.32,
+    "price": 114.32,
+    "mkt_cap": 0
+  },
+  {
+    "code": "688521",
+    "name": "CSoC",
+    "gain": 95.52104277889484,
+    "start_price": 144.23,
+    "end_price": 282.0,
+    "price": 282.0,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300739",
+    "name": "KaiPu Bio",
+    "gain": 73.94328517924022,
+    "start_price": 18.69,
+    "end_price": 32.51,
+    "price": 32.51,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002156",
+    "name": "Tongfang Singamus",
+    "gain": 70.61203844208396,
+    "start_price": 39.54,
+    "end_price": 67.46,
+    "price": 67.46,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002916",
+    "name": "DeepBlue Circuit",
+    "gain": 65.37826911970961,
+    "start_price": 242.42,
+    "end_price": 400.91,
+    "price": 400.91,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002463",
+    "name": "Wus Circuit",
+    "gain": 60.37110669317428,
+    "start_price": 75.45,
+    "end_price": 121.0,
+    "price": 121.0,
+    "mkt_cap": 0
+  },
+  {
+    "code": "600183",
+    "name": "Shengyi Tech",
+    "gain": 55.235494880546064,
+    "start_price": 73.25,
+    "end_price": 113.71,
+    "price": 113.71,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300460",
+    "name": "Fenghua Circuit",
+    "gain": 32.73657289002558,
+    "start_price": 7.82,
+    "end_price": 10.38,
+    "price": 10.38,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300476",
+    "name": "Victory Giant Tech",
+    "gain": 23.047952988539336,
+    "start_price": 308.01,
+    "end_price": 379.0,
+    "price": 379.0,
+    "mkt_cap": 0
+  },
+  {
+    "code": "688126",
+    "name": "Shanghai Xinzhi",
+    "gain": 22.55033557046979,
+    "start_price": 22.35,
+    "end_price": 27.39,
+    "price": 27.39,
+    "mkt_cap": 0
+  },
+  {
+    "code": "000823",
+    "name": "Ultrasonic Electronic",
+    "gain": 19.13805697589481,
+    "start_price": 13.69,
+    "end_price": 16.31,
+    "price": 16.31,
+    "mkt_cap": 0
+  },
+  {
+    "code": "603228",
+    "name": "Jingwang Electronic",
+    "gain": 17.18451894249114,
+    "start_price": 73.38,
+    "end_price": 85.99,
+    "price": 85.99,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002541",
+    "name": "Honglu Steel",
+    "gain": 15.950920245398759,
+    "start_price": 16.3,
+    "end_price": 18.9,
+    "price": 18.9,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002134",
+    "name": "Tianjin Puleng",
+    "gain": 14.021164021164022,
+    "start_price": 26.46,
+    "end_price": 30.17,
+    "price": 30.17,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002309",
+    "name": "Lianchuang Electronic",
+    "gain": 12.650602409638568,
+    "start_price": 3.32,
+    "end_price": 3.74,
+    "price": 3.74,
+    "mkt_cap": 0
+  },
+  {
+    "code": "603659",
+    "name": "Putailai",
+    "gain": 11.131320480174619,
+    "start_price": 27.49,
+    "end_price": 30.55,
+    "price": 30.55,
+    "mkt_cap": 0
+  },
+  {
+    "code": "688799",
+    "name": "Hualong Rest",
+    "gain": 10.710607621009276,
+    "start_price": 48.55,
+    "end_price": 53.75,
+    "price": 53.75,
+    "mkt_cap": 0
+  },
+  {
+    "code": "600601",
+    "name": "Zhiguang Electronic",
+    "gain": 5.1261187957689245,
+    "start_price": 12.29,
+    "end_price": 12.92,
+    "price": 12.92,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002861",
+    "name": "King Bright",
+    "gain": 1.0638297872340388,
+    "start_price": 18.8,
+    "end_price": 19.0,
+    "price": 19.0,
+    "mkt_cap": 0
+  },
+  {
+    "code": "000581",
+    "name": "Weifu HighTech",
+    "gain": -3.159941662615452,
+    "start_price": 20.57,
+    "end_price": 19.92,
+    "price": 19.92,
+    "mkt_cap": 0
+  },
+  {
+    "code": "300682",
+    "name": "Nanjing Loyal",
+    "gain": -8.078880407124691,
+    "start_price": 15.72,
+    "end_price": 14.45,
+    "price": 14.45,
+    "mkt_cap": 0
+  },
+  {
+    "code": "603160",
+    "name": "UNISOC",
+    "gain": -15.41169076052796,
+    "start_price": 79.55,
+    "end_price": 67.29,
+    "price": 67.29,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002180",
+    "name": "Nasa",
+    "gain": -15.81008321096427,
+    "start_price": 20.43,
+    "end_price": 17.2,
+    "price": 17.2,
+    "mkt_cap": 0
+  },
+  {
+    "code": "002045",
+    "name": "Guangzhou Yisheng",
+    "gain": -31.527777777777782,
+    "start_price": 14.4,
+    "end_price": 9.86,
+    "price": 9.86,
+    "mkt_cap": 0
+  }
+]

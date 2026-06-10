@@ -1,0 +1,4 @@
+{
+  "slack_url": "https://hooks.slack.com/services/YOUR/SLACK/WEBHOOK",
+  "wechat_url": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=YOUR_WEBHOOK_KEY"
+}
